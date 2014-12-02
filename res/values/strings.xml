@@ -4,5 +4,7 @@
     <string name="app_name">CallYourMother</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+	<string name="action_add_user">Add Reminder</string>
+    <string name="contact_name"></string>
+    
 </resources>

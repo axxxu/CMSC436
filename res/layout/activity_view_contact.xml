@@ -8,9 +8,14 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.callmemaybe.MainActivity" >
 
-    <ListView android:id="@+id/contact_list"
-              android:layout_height="match_parent"
-              android:layout_width="match_parent"/>
-    
+    <TextView
+        android:id="@+id/contact_name_place"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="143dp"
+        android:text="poops"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
     
 </RelativeLayout>
